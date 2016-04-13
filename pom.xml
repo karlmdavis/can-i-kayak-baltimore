@@ -64,6 +64,12 @@
 		</dependency>
 		-->
 
+		<dependency>
+			<groupId>com.justdavis.karl.usgs</groupId>
+			<artifactId>usgs-water-api-java</artifactId>
+			<version>1.0-SNAPSHOT</version>
+		</dependency>
+
 		<!-- LOGGING DEPENDENCIES - LOG4J -->
 		<dependency>
 			<groupId>org.apache.logging.log4j</groupId>
